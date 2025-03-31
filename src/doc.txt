@@ -1,0 +1,6 @@
+Classe Pessoa
+	Testar classe pessoa (instanciamento ou lista), informações.
+	
+	
+PAREI:
+Tentava modificar a nota do infeliz. Mas pode ficar para depois
