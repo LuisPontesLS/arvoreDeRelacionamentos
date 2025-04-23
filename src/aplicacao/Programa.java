@@ -17,6 +17,7 @@ public class Programa {
 		pessoa1.nota(1);
 		System.out.println("\nApós modificar nome: \n" + pessoa1);
 
+		System.out.println("Impressão qualquer");
 	}//
 
 }
